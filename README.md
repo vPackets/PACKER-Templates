@@ -1,6 +1,6 @@
 # Automated template creation using Hashicorp Packer
 
-Authored by Romain Decker [@oueb](https://github.com/cloudmaniac), maintained (by Nicolas MICHEL [@vpackets](https://twitter.com/vpackets) / [LinkedIn](https://www.linkedin.com/in/mclnicolas/) / [Blog](http://vpackets.net/) 
+Authored by Romain Decker [@woueb](https://github.com/cloudmaniac), maintained (by Nicolas MICHEL [@vpackets](https://twitter.com/vpackets) / [LinkedIn](https://www.linkedin.com/in/mclnicolas/) / [Blog](http://vpackets.net/) 
 
 _**This disclaimer informs readers that the views, thoughts, and opinions expressed in this series of posts belong solely to the author, and not necessarily to the author’s employer, organization, committee or other group or individual.**_
 
