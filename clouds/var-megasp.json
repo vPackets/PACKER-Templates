@@ -1,0 +1,9 @@
+{
+    "var_vsphere_vcenter": "srv-vcenter-01.megasp.net",
+    "var_vsphere_username": "administrator@megasp.net",
+    "var_vsphere_password": "Mamigue140207@@",
+    "var_vsphere_datacenter": "ATX-01",
+    "var_vsphere_cluster": "Management-Edge",
+    "var_vsphere_datastore": "ESXi-01-ST-Archive",
+    "var_vsphere_network": "DPG-VLAN100-MGMT-INFRASTRUCTURE"
+  }
